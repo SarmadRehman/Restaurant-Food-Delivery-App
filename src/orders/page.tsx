@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const OrdersPage = () => {
-  return (
-    <div>
-      this is order oage
-    </div>
-  )
-}
+  return <div>this is order page</div>;
+};
 
-export default OrdersPage
+export default OrdersPage;
